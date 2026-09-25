@@ -1,0 +1,6 @@
+# macOS artifacts
+__MACOSX/
+.DS_Store
+
+# Large dataset files (too large for GitHub - use Git LFS or download separately)
+*.tsv
