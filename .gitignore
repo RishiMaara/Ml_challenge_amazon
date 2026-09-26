@@ -1,0 +1,17 @@
+# data & large outputs
+student_resource/dataset/
+__MACOSX/
+artifacts/*
+!artifacts/.gitkeep
+output/*.tsv
+*.parquet
+*.npy
+*.faiss
+*.zip
+# env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+submissions/
+artifacts/kaggle_export/*.parquet
